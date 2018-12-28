@@ -1,16 +1,16 @@
 [
  {
-   "internal_id": 11642,
-   "sku": "A1000",
-   "chino_ca_warehouse": 1499,
+   "internal_id": 116421,
+   "sku": "A1000x",
+   "chino_ca_warehouse": 149009,
    "summerville_sc_warehouse": 111,
    "wilmer_tx_warehouse": 155,
    "sumner_wa_warehouse": 23,
    "avenel_nj_warehouse": null
  },
  {
-   "internal_id": 11744,
-   "sku": "A1000a",
+   "internal_id": 117441,
+   "sku": "A1000ax",
    "chino_ca_warehouse": 50,
    "summerville_sc_warehouse": 30,
    "wilmer_tx_warehouse": 70,
@@ -18,8 +18,8 @@
    "avenel_nj_warehouse": 16
  },
  {
-   "internal_id": 14321,
-   "sku": "A1010",
+   "internal_id": 143211,
+   "sku": "A1010x",
    "chino_ca_warehouse": 131,
    "summerville_sc_warehouse": 32,
    "wilmer_tx_warehouse": 20,
