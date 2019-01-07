@@ -6,6 +6,7 @@ function getAll() {
 }
 
 function getAllfromFile() { 
+
     alert('hi');
 
     $.ajax({
@@ -72,5 +73,5 @@ function insertAlltoDB(updatedData) {
 
     }//end for
     
-    
+
 }
